@@ -52,7 +52,7 @@ LLM Response             Human Review
 # Project Structure
 
 ```text
-lang_chain_project/
+ai-orchestration-system/
 │
 ├── app.py
 ├── chains/
