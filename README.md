@@ -1,10 +1,8 @@
 # AI Orchestration System
 
-Production-style AI orchestration system built using LangChain, LangGraph, FAISS, Flask, and OpenAI-compatible LLM workflows.
+AI orchestration workflow built using LangChain, LangGraph, FAISS, Flask, and OpenAI-compatible LLM workflows.
 
-The system simulates how modern AI support platforms handle customer requests through retrieval-augmented generation (RAG), confidence-based routing, escalation handling, and conversational memory.
-
-Instead of directly generating responses for every query, the workflow retrieves relevant company policy context, evaluates confidence, and decides whether the request should be answered automatically or escalated for human review.
+The system retrieves relevant company policy context, evaluates retrieval confidence, and routes requests through automated response or escalation workflows for human review.
 
 ---
 
