@@ -145,7 +145,7 @@ Invoke-RestMethod `
 # Screenshots
 
 ## Vector Index Built Successfully
-![Index Built](screenshots/index_built.png)
+![Index Built](screenshots/faiss_index_built.png)
 
 ---
 
