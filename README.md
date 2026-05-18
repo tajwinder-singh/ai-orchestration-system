@@ -144,11 +144,24 @@ Invoke-RestMethod `
 
 # Screenshots
 
-- FAISS index creation
-- Flask server execution
-- Successful response generation
+## Vector Index Built Successfully
+![Index Built](screenshots/index_built.png)
 
 ---
+
+## Flask Server Running
+
+![Flask Running](screenshots/flask_running.png)
+
+---
+
+## Successful Allow Response
+
+![Allow Response](screenshots/allow_response.png)
+
+---
+
+
 
 # Future Improvements
 
